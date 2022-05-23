@@ -271,7 +271,7 @@ loadjs.ready("head", function() {
 <?php } ?>
 <link rel="shortcut icon" type="image/x-icon" href="<?php echo $RELATIVE_PATH ?>iconfinder_general_office_42_3592829_aF5_icon.ico">
 <link rel="icon" type="image/x-icon" href="<?php echo $RELATIVE_PATH ?>iconfinder_general_office_42_3592829_aF5_icon.ico">
-<meta name="generator" content="PHPMaker 2020">
+<meta name="generator" content="Base de conhecimentos PHP">
 </head>
 <body class="<?php echo Config("BODY_CLASS") ?>" dir="<?php echo Config("CSS_FLIP") ? "rtl" : "ltr" ?>">
 <?php if (@!$SkipHeaderFooter) { ?>
@@ -286,7 +286,7 @@ loadjs.ready("head", function() {
 				<a class="nav-link" data-widget="pushmenu" href="#" onclick="return false;"><i class="fas fa-bars"></i></a>
 			</li>
 			<a class="navbar-brand d-none" href="#"  onclick="return false;">
-				<span class="brand-text">PHPMaker 2020</span>
+				<span class="brand-text">Base de conhecimentos PHP</span>
 			</a>
 		</ul>
 		<!-- Right navbar links -->
@@ -297,7 +297,7 @@ loadjs.ready("head", function() {
 	<aside class="<?php echo Config("SIDEBAR_CLASS") ?>">
 		<!-- Brand Logo //** Note: Only licensed users are allowed to change the logo ** -->
 		<a href="#" class="brand-link">
-			<span class="brand-text">PHPMaker 2020</span>
+			<span class="brand-text">Base de conhecimentos PHP</span>
 		</a>
 		<!-- Sidebar -->
 		<div class="sidebar">

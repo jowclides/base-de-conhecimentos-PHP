@@ -854,8 +854,8 @@
     <phrase id="thisyear" value="Este ano" />
   </global>
   <project>
-    <phrase id="bodytitle" value="Personal Home Office App" />
-    <phrase id="footertext" value="&amp;copy;2019 e.World Technology Ltd. All rights reserved." />
+    <phrase id="bodytitle" value="Base de Conhecimentos PHP" />
+    <phrase id="footertext" value="&amp;copy;2019 PHP4YOU Sistemas. All rights reserved." />
     <menu id="2">
       <phrase id="menutext" value="Dashboard-Contatos" />
     </menu>
