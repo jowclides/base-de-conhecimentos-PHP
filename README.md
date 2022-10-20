@@ -64,7 +64,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 01:
 
 <div>
-  <img src="PRINTS/print-01.jpg" width="550px">
+  <img src="PRINTS/print-01.jpg" width="800px">
 </div>
 |
 |
@@ -73,7 +73,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 02:
 
 <div>
-  <img src="PRINTS/print-01.jpg" width="550px">
+  <img src="PRINTS/print-01.jpg" width="800px">
 </div>
 |
 |
@@ -82,7 +82,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 03:
 
 <div>
-  <img src="PRINTS/print-03.jpg" width="550px">
+  <img src="PRINTS/print-03.jpg" width="800px">
 </div>
 |
 |
@@ -91,7 +91,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 04:
 
 <div>
-  <img src="PRINTS/print-04.jpg" width="550px">
+  <img src="PRINTS/print-04.jpg" width="800px">
 </div>
 |
 |
@@ -100,7 +100,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 05:
 
 <div>
-  <img src="PRINTS/print-05.jpg" width="550px">
+  <img src="PRINTS/print-05.jpg" width="800px">
 </div>
 |
 |
@@ -109,7 +109,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 06:
 
 <div>
-  <img src="PRINTS/print-06.jpg" width="550px">
+  <img src="PRINTS/print-06.jpg" width="800px">
 </div>
 |
 |
@@ -118,7 +118,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 07:
 
 <div>
-  <img src="PRINTS/print-07.jpg" width="550px">
+  <img src="PRINTS/print-07.jpg" width="800px">
 </div>
 |
 |
@@ -127,7 +127,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 08:
 
 <div>
-  <img src="PRINTS/print-08.jpg" width="550px">
+  <img src="PRINTS/print-08.jpg" width="800px">
 </div>
 |
 |
@@ -136,7 +136,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 09:
 
 <div>
-  <img src="PRINTS/print-09.jpg" width="550px">
+  <img src="PRINTS/print-09.jpg" width="800px">
 </div>
 |
 |
@@ -145,7 +145,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 10:
 
 <div>
-  <img src="PRINTS/print-10.jpg" width="550px">
+  <img src="PRINTS/print-10.jpg" width="800px">
 </div>
 |
 |
