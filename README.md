@@ -63,14 +63,6 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## Algumas poucas imagens do Sistema Desenvolvido por Emerson Silva - PHP4YOU
 
-## Print do sistema: Imagem 01:
-
-<div>
-  <img src="PRINTS/print-01.jpg" width="550px">
-</div>
-|
-|
-|
 
 ## Print do sistema: Imagem 01:
 
@@ -148,6 +140,15 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 <div>
   <img src="PRINTS/print-09.jpg" width="550px">
+</div>
+|
+|
+|
+
+## Print do sistema: Imagem 10:
+
+<div>
+  <img src="PRINTS/print-10.jpg" width="550px">
 </div>
 |
 |
