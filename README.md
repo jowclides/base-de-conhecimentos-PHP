@@ -76,7 +76,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 ## Print do sistema: Imagem 02:
 
 <div>
-  <img src="https://github.com/jowclides/base-de-conhecimentos-PHP/blob/master/PRINTS/print-01.jpg" width="550px">
+  <img src="PRINTS/print-01.jpg" width="550px">
 </div>
 |
 |
