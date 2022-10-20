@@ -3,6 +3,10 @@
 
 ## What is Base de Conhecimentos em PHP?
 
+<div>
+  <img src="PRINTS/print-01.jpg" width="550px">
+</div>
+
 Base de Conhecimentos em PHP is a PHP full-stack web APP that is light, fast, flexible and secure.
 More information can be found at the [official site](https://www.php4you.com.br).
 
